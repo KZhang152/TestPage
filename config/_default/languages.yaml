@@ -35,18 +35,18 @@ zh:
   menu:
     main:
     - name: 主页
-      url: /
+      url: zh/
       weight: 10
     - name: 发表论文
-      url: publication/
+      url: zh/publication/
       weight: 20
     - name: 荣誉
-      url: honors/
+      url: zh/onors/
       weight: 30
     - name: 基金
-      url: funds/
+      url: zh/funds/
       weight: 40
     - name: 学术兼职
-      url: service/
+      url: zh/service/
       weight: 50
 
