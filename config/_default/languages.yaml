@@ -49,4 +49,18 @@ zh:
     - name: 学术兼职
       url: service/
       weight: 50
+  params:
+    header:
+      navbar:
+        enable: true
+        blox: "navbar"
+        fixed_to_top: true
+        show_search: true
+        show_theme_chooser: true
+        logo:
+          text: "Qinghua Hu (胡清华)"
+        button:
+          enable: true
+          text: "主页"
+          url: "/"
 
