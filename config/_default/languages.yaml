@@ -28,9 +28,9 @@ en:
     header:
       navbar:
         button:
-          enable: true
+          enable: false
           text: "Home"
-          url: /
+          url: '/'
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -60,7 +60,7 @@ zh:
     header:
       navbar:
         button:
-          enable: true
+          enable: false
           text: "主页"
-          url: /
+          url: '/'
 
