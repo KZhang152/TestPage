@@ -711,6 +711,14 @@
       
       
       
+      <li class="mt-4 inline-block lg:hidden">
+        <a
+          class=""
+          href="/">
+          Home
+        </a>
+      </li>
+      
     </ul>
 
     <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
@@ -780,6 +788,15 @@
       
 
       
+      
+      <a
+        href="/"
+        class="inline-block rounded border px-5 py-2 font-semibold transition
+        md:ml-4 px-4 py-1.5 text-sm
+        border-black  hover:bg-black dark:hover:bg-white dark:hover:text-black hover:text-white dark:border-white dark:text-white dark:hover:bg-white
+        hidden lg:inline-block">
+        Home
+      </a>
       
     </div>
   </nav>
@@ -1148,7 +1165,7 @@
 
 
 
-<div id="chart-936157824" class="chart"></div>
+<div id="chart-695183472" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1166,7 +1183,7 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-936157824', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-695183472', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
