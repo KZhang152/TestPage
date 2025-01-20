@@ -16,10 +16,6 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -33,10 +29,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/event/example/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -52,10 +44,6 @@
                 href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/journal-article-3/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -69,10 +57,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/publication/journal-article-3/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/publication/journal-article-3/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/article-journal/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
@@ -102,10 +86,6 @@
                 href="http://localhost:1313/publication/journal-article-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/publication/journal-article-2/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/journal-article-1/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -119,10 +99,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/publication/journal-article-1/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/publication/journal-article-1/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
@@ -152,10 +128,6 @@
                 href="http://localhost:1313/publication/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/publication/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/journal-article-4/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,10 +142,6 @@
                 href="http://localhost:1313/publication/journal-article-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/publication/journal-article-4/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/conference-paper-1/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,10 +155,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/publication/conference-paper-1/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/publication/conference-paper-1/</loc>
-    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
@@ -220,10 +184,6 @@
                 href="http://localhost:1313/post/get-started/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/post/get-started/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,10 +211,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/post/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/post/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -326,10 +282,6 @@
                 href="http://localhost:1313/post/second-brain/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/post/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -343,10 +295,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/post/data-visualization/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/post/data-visualization/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
@@ -375,10 +323,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/post/teach-courses/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/post/teach-courses/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
@@ -422,10 +366,6 @@
                 href="http://localhost:1313/teaching/js/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/teaching/js/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -439,10 +379,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/teaching/python/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/teaching/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
@@ -472,10 +408,6 @@
                 href="http://localhost:1313/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/teaching/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -490,10 +422,6 @@
                 href="http://localhost:1313/post/project-management/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/post/project-management/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/service/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -506,9 +434,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/service/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/service/</loc>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/funds/</loc>
     <changefreq>weekly</changefreq>
@@ -535,11 +460,5 @@
                 hreflang="en-us"
                 href="http://localhost:1313/honors/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/zh/funds/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/zh/honors/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
