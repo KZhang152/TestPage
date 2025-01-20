@@ -30,7 +30,7 @@ en:
         button:
           enable: true
           text: "Home"
-          url: "/"
+          url: /
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -42,7 +42,7 @@ zh:
   menu:
     main:
     - name: 主页
-      url: "/"
+      url: /
       weight: 10
     - name: 发表论文
       url: publication/
@@ -62,5 +62,5 @@ zh:
         button:
           enable: true
           text: "主页"
-          url: "/"
+          url: /
 
