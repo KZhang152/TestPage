@@ -24,6 +24,20 @@ en:
     - name: Service
       url: service/
       weight: 50
+  params:
+    header:
+      navbar:
+        enable: true
+        blox: "navbar"
+        fixed_to_top: true
+        show_search: false
+        show_theme_chooser: true
+        logo:
+          text: "Qinghua Hu (胡清华)"
+        button:
+          enable: true
+          text: "Home"
+          url: "/"
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -55,7 +69,7 @@ zh:
         enable: true
         blox: "navbar"
         fixed_to_top: true
-        show_search: true
+        show_search: false
         show_theme_chooser: true
         logo:
           text: "Qinghua Hu (胡清华)"
