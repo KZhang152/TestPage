@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>基金 | Qinghua Hu</title>
+    <link>http://localhost:1313/zh/funds/</link>
+      <atom:link href="http://localhost:1313/zh/funds/index.xml" rel="self" type="application/rss+xml" />
+    <description>基金</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6898429748660073093.png</url>
+      <title>基金</title>
+      <link>http://localhost:1313/zh/funds/</link>
+    </image>
+    
+  </channel>
+</rss>

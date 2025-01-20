@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honors | Qinghua Hu</title>
+    <link>http://localhost:1313/honors/</link>
+      <atom:link href="http://localhost:1313/honors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Honors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6898429748660073093.png</url>
+      <title>Honors</title>
+      <link>http://localhost:1313/honors/</link>
+    </image>
+    
+  </channel>
+</rss>

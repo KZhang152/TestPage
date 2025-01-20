@@ -6,17 +6,47 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  menu:
+    main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: Publications
+      url: publication/
+      weight: 20
+    - name: Honors
+      url: honors/
+      weight: 30
+    - name: Funds
+      url: funds/
+      weight: 40
+    - name: Service
+      url: service/
+      weight: 50
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  menu:
+    main:
+    - name: 主页
+      url: /
+      weight: 10
+    - name: 发表论文
+      url: publication/
+      weight: 20
+    - name: 荣誉
+      url: honors/
+      weight: 30
+    - name: 基金
+      url: funds/
+      weight: 40
+    - name: 学术兼职
+      url: service/
+      weight: 50
+

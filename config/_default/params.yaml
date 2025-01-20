@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: tju # emerald
+
+# theme: tju
 
 # SEO
 marketing:
@@ -35,21 +37,37 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Qinghua Hu (胡清华)"
+    button:
+      enable: true
+      text: "Home"
+      url: "/"
+    # Let the user choose between light or dark mode?
+    show_theme_chooser: true
+    # Let the user search from the navigation bar?
+    show_search: true
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+    highlight_active_link: true
+    # Show a language chooser (if you have translated your site content)?
+    show_translations: true
+    # If `show_translations` is enabled, do you wish to hide the current language name?
+    hide_language_name: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© All rights reserved.'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  # For multilingual sites, show a language chooser in the footer?
+  show_translations: true
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 02, 2006'
   time_format: '3:04 PM'
 
 # Site features
