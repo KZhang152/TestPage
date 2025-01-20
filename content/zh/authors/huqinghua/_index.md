@@ -43,7 +43,7 @@ profiles:
     url: https://dblp.uni-trier.de/pid/30/2395.html
     label: DBLP page
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=TVSNq_wAAAAJ&hl=zh-CN&oi=ao
     label: Google scholar
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7765-8095
