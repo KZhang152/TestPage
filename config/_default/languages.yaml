@@ -35,7 +35,7 @@ zh:
   menu:
     main:
     - name: 主页
-      url: /
+      url: /zh
       weight: 10
     - name: 发表论文
       url: publication/
