@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+  contentDir: content/
   menu:
     main:
     - name: Home
@@ -35,18 +35,18 @@ zh:
   menu:
     main:
     - name: 主页
-      url: zh/
+      url: /
       weight: 10
     - name: 发表论文
-      url: zh/publication/
+      url: publication/
       weight: 20
     - name: 荣誉
-      url: zh/honors/
+      url: honors/
       weight: 30
     - name: 基金
-      url: zh/funds/
+      url: funds/
       weight: 40
     - name: 学术兼职
-      url: zh/service/
+      url: service/
       weight: 50
 
