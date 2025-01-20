@@ -6,7 +6,7 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: en/
+  contentDir: content/en/
   menu:
     main:
     - name: Home
@@ -35,7 +35,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 zh:
   languageCode: zh-Hans
-  contentDir: zh/
+  contentDir: content/zh/
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
