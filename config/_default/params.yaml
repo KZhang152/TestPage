@@ -38,10 +38,10 @@ header:
     show_theme_chooser: true
     logo:
       text: "Qinghua Hu (胡清华)"
-    button:
-      enable: true
-      text: "Home"
-      url: "/"
+    # button:
+    #   enable: true
+    #   text: "Home"
+    #   url: "/"
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
     # If `show_translations` is enabled, do you wish to hide the current language name?
