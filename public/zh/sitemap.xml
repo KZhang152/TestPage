@@ -142,20 +142,6 @@
                 href="http://localhost:1313/zh/publication/journal-article-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/funds-copy/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/funds-copy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/funds-copy/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/publication/conference-paper-1/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,19 +420,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="http://localhost:1313/zh/post/project-management/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/zh/publication-old/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/publication-old/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="http://localhost:1313/zh/publication-old/"
                 />
   </url><url>
     <loc>http://localhost:1313/zh/service/</loc>
