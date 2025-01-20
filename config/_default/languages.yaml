@@ -27,13 +27,6 @@ en:
   params:
     header:
       navbar:
-        enable: true
-        blox: "navbar"
-        fixed_to_top: true
-        show_search: false
-        show_theme_chooser: true
-        logo:
-          text: "Qinghua Hu (胡清华)"
         button:
           enable: true
           text: "Home"
@@ -66,13 +59,6 @@ zh:
   params:
     header:
       navbar:
-        enable: true
-        blox: "navbar"
-        fixed_to_top: true
-        show_search: false
-        show_theme_chooser: true
-        logo:
-          text: "Qinghua Hu (胡清华)"
         button:
           enable: true
           text: "主页"
